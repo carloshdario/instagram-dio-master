@@ -1,0 +1,1 @@
+Olá,nesse projeto, refiz a interface do instagram, utilizando HTML5 e CSS3 com as instrunções da professora Gabriela Spruce, tentei imitar a paleta de cores do instagram com background-image.
